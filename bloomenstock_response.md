@@ -1,8 +1,9 @@
 # Response to Joshua Blumenstock's 2018 Article
 
--- Question -- 
+#### Question
 Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis.
 
+#### Response
 Blumenstock addresses and discusses some of the unanticipated effects and pitfalls that are resultant from the fast-paced development occurring in the big data analytics field. Much of the issues here are a result of a lack of legislation and oversight due to the nature of the relatively slow government bureaucracy that fails to keep up. In addition to this, Bloomenstock discusses the challenges associated with analyzing how the effectiveness of new and novel solutions. One disturbing example is how people were able to exploit the humanitarian aid efforts by pretending to live in thatched houses. It can be challenging to factor in these unexpected outcomes that result from the new forms of data analysis and resultant action. 
 
 All this considered, Bloomenstock is advocating for the furtherance and continued development for the field of Data Science and the many positive implications it can have on our modernizing world. However, he desires to clearly state some of the many factors that will need to be considered to truly optimize the genuine positive intent and impact of this research and data collection. 
