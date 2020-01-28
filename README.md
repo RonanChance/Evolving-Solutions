@@ -2,12 +2,12 @@
 The following is a table of contents of my work produced for Evolving Solutions
 Ronan Donovan
 
-## Responses to Readings
+### Responses to Readings
 
 1. [Blumenstock](/Bloomenstock.md) (Jan. 28)
 2. ... 
 
-## Formal Papers & Assignments
+### Formal Papers & Assignments
 
 1. Anotated Bibliography
   - Problem Statements
