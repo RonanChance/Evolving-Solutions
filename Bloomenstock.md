@@ -1,4 +1,4 @@
-# Response to Joshua Blumenstock's 2018 article
+# Response to Joshua Blumenstock's 2018 Article
 
 Blumenstock addresses and discusses some of the unanticipated effects and pitfalls that are resultant from the fast-paced development occurring in the big data analytics field. Much of the issues here are a result of a lack of legislation and oversight due to the nature of the relatively slow government bureaucracy that fails to keep up. In addition to this, Bloomenstock discusses the challenges associated with analyzing how the effectiveness of new and novel solutions. One disturbing example is how people were able to exploit the humanitarian aid efforts by pretending to live in thatched houses. It can be challenging to factor in these unexpected outcomes that result from the new forms of data analysis and resultant action. 
 
