@@ -12,8 +12,6 @@ As our classmante Nira Nair stated, “Transparency is the underlying issue to m
 
 Another discussion involves the intention behind dealing with problems. Anna Raymond believes that "Good intent is not enough in data science when dealing with the problems which determine people’s experiences”. This is certainly something we will need to grapple with collectively as we struggle to find the right balance between ensuring the protection and well-being of individuals while maintaining liberty and independence. 
 
-Student: Ronan Donovan
-
 ### Notes Taken While Reading Article
 What is the promise of data science as it relates to human development? What are some pitfalls?
 
