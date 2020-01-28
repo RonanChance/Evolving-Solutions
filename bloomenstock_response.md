@@ -1,4 +1,4 @@
-# Response to Joshua Blumenstock's 2018 Article
+## Response to Joshua Blumenstock's 2018 Article
 
 #### Question
 Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis.
