@@ -4,7 +4,7 @@ Ronan Donovan
 
 ### Responses to Readings
 
-1. [Blumenstock](/Bloomenstock.md) (Jan. 28)
+1. [Blumenstock Response](/Bloomenstock.md) (Jan. 28)
 2. ... 
 
 ### Formal Papers & Assignments
