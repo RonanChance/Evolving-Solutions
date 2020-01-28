@@ -14,7 +14,7 @@ Another discussion involves the intention behind dealing with problems. Anna Ray
 
 Student: Ronan Donovan
 
-# Notes Taken While Reading Article
+### Notes Taken While Reading Article
 What is the promise of data science as it relates to human development? What are some pitfalls?
 
 - 95% of the global population has mobile phone coverage
