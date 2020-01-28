@@ -2,11 +2,16 @@
 
 Ronan Donovan
 
-## Informal Responses
+## Responses to Readings
 
-1. Blumenstock (Jan. 28)
+1. [Blumenstock](/Bloomenstock.md) (Jan. 28)
 2. ... 
 
-## Formal Papers
+## Formal Papers & Assignments
 
 1. Anotated Bibliography
+  - Problem Statements
+  - Harms
+  - Significance of those harms
+  - Selected UMIC or Region
+  - Dimension of Human Development
