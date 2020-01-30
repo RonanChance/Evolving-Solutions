@@ -3,7 +3,7 @@ The following is a table of contents of my work produced for Evolving Solutions
 
 ### Responses to Readings
 
-1. [Blumenstock Response](https://ronanchance.github.io/Evolving-Solutions/blumenstock.md) (Jan. 30, revised)
+1. [Blumenstock Response](https://ronanchance.github.io/Evolving-Solutions/blumenstock.html) (Jan. 30, revised)
 2. [Perkel & Tatem Article Response](https://ronanchance.github.io/Evolving-Solutions/) (Jan. 30, revised)
 
 ### Formal Papers & Assignments
