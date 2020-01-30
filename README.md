@@ -5,7 +5,7 @@ Ronan Donovan
 ### Responses to Readings
 
 1. [Blumenstock Response](/bloomenstock_response.md) (Jan. 28)
-2. ... 
+2. [Perkel & Tatem Article Response](/perkel_tatem.md) (Jan. 29)
 
 ### Formal Papers & Assignments
 
