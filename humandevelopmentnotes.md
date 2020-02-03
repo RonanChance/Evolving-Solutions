@@ -13,7 +13,7 @@
 - In Human Development measurement there are two main measures. 
 - Breadth (different indicators, dashboard-like).  
 - Focused measure (HDI), concentrates on three basic dimensions. Long healthy life, knowledge, and standard of living. 
-Breadth measure is like a house, focused is like a door. 
+- Breadth measure is like a house, focused is like a door. 
 - Don't mistake the door to be the house. 
 - Rethinking 'work' for human development.
 - Non-job related work is important for human development and the interconnectedness of people.
