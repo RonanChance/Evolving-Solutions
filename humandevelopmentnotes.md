@@ -1,4 +1,4 @@
-## Note for week 3 of class
+## Notes for week 3 of class
 
 ### What is human development? (Selim Jahan)
 - It can be characterized by increasing possible human choices. 
