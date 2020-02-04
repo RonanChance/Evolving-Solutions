@@ -27,4 +27,5 @@
 - Aid does not usually consist of countries with lots of money giving to less fortunate ones. 
 - Logarithmic sort of distribution for dollars per day in the world. 
 - Nearly linear correlation between money and child survival rate. 
-
+- Need health before wealth for growth.
+- Gapminder connects the public to usually difficult to access data. 
