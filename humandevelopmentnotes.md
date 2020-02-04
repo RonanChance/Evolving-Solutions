@@ -20,3 +20,11 @@
 - We know that women are the majority of care work. 
 - The agricultural sector makes up most of the workers in the world.
 - Work during crisis/post-crisis is important. Must continue to think about putting food on the table. 
+
+### Ted Talk (Hans Rosling)
+- An example that we are all subject to potentially preconceived ideas that shape our perceptions of the world. 
+- The world has changed very drastically since 1962, with the majority of families getting smaller and living longer. 
+- Aid does not usually consist of countries with lots of money giving to less fortunate ones. 
+- Logarithmic sort of distribution for dollars per day in the world. 
+- Nearly linear correlation between money and child survival rate. 
+
