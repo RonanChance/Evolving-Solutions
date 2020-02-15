@@ -1,3 +1,5 @@
+## Notes from Podcast
+
 How we have modelled economies and growth have given rise to fruitless quests for the missing ingredient which will enable poor countries to grow. 
 
 Young Woman from Gojam, Ethiopia wants to be a doctor. 
