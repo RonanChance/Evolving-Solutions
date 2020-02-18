@@ -1,8 +1,8 @@
-## Questions from Class
+### Questions from Class
 Who was Steve Jones and what did he do at unilever?
 Steve Jones is an evolutionary biologist that was hired by Unilever to design a better soap nozzle. The process requires crystalizing soap that falls out of the nozzle. The issue was that the process was quite inefficient. Steve Jones took a different approach to the design of a new shape of nozzle. He first generated 10 random ones, tested them, and chose the best one for further adaptations. Repeating the process and 45 generations later created one hundreds of times more efficient (as compared to a usual 20% increase from redesigns). This is a showcase of adaptive change being applied to everyday life that causes game-changing results. 
 
-## Acemoglu and Robinson why nations fail. Engineer prosperity by providing the right advice. (8)
+### Acemoglu and Robinson why nations fail. Engineer prosperity by providing the right advice. (8)
 They argued that mainstream development practice today is built on incorrect assumptions. We assume that poor countries are poor because their rulers have mistaken views of how to run their country: they prevent markets from working properly and they tolerate corruption. Poor countries do not have weak institutions because they do not know any better, but because it suits the powerful elites to run things this way. Long line of books which spends a lot of time saying that everyone before them was wrong, and that there is some missing ingredient which would make things right.
 
 Economic systems are not like economic systems - they are one in the same. 
