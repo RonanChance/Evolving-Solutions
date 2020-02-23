@@ -9,4 +9,4 @@ The following is a table of contents of my work produced for Evolving Solutions
 
 ### Formal Papers & Assignments
 
-1. [Anotated Bibliography](https://ronanchance.github.io/Evolving-Solutions/Assignment_1.html) (Feb. 23)
+1. [Anotated Bibliography](https://ronanchance.github.io/Evolving-Solutions/Assignment_1) (Feb. 23)
