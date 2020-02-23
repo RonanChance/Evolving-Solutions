@@ -1,9 +1,9 @@
 ## Assignment 1: Annotated Bibliography
 
-Ronan Donovan
-William and Mary
-Data 150
-Dr. Frazier
+Ronan Donovan <br />
+William and Mary <br />
+Data 150 <br />
+Dr. Frazier <br />
 23 February 2020
 
 ## Problem Statement:
