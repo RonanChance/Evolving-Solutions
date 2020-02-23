@@ -4,7 +4,7 @@ Ronan Donovan \
 William and Mary \
 Data 150 \
 Dr. Frazier \
-23 February 2020 \
+23 February 2020
 
 ## Problem Statement:
 There are a number of necessary requirements for effective urbanization and infrastructure, particularly in the development of Ulaanbaatar, Mongolia. The impacts that negligence and lack of planning have on average lifespan is well documented, along with the negative implications of air and water pollution. The chosen research papers and studies were conducted with the goal of understanding what constitutes effective development and to assess what the country of Mongolia can do to further improve the quality of life for its citizens. A dedication to Amartya Sen’s perspective of development is precisely what will propel Mongolia forward. While the GDP has seen substantial improvements over the past decade, emphasis on social services and improved living conditions are a necessity for continued development. If Ulaanbatar can incorporate a dedication to the Sustainable Development Goals for the next chapter of growth, the country has the potential to successfully transition into the modern world. 
