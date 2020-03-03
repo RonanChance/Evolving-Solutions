@@ -7,7 +7,7 @@
 - Huge ideological difference between the two parties. 
 - Atta Mills (Presidential Candidate) and the NDC (National Democratic Congress).
 - Nana Akufo-Addo, candidate of NPP (National People's Party).
-- Jerry Rawlings (Former President 1992 - 2000)
+- Jerry Rawlings (NDC)(Former President 1992 - 2000) - Upheaval sets roots of polictical parties. 
 - NDC vs. NPP
 - Fifth election since multi-party democracy was established in 1992.
 - Will be a step forward if it is successful and peaceful.
@@ -21,8 +21,7 @@
 - CIA inspired coup 1966 overthrow of Kwame Nkrumah
 - 5 different military regimes.
 - Nana wants free secondary education for all.
-- None of the parties are offering a paradigm shift. They are all promising similar things, just going to do it better than the others. 
-Want modernization and development
+- None of the parties are offering a paradigm shift. They are all promising similar things, just going to do it better than the others. Want modernization and development.
 - Lots of aggregate growth has not translated into general well-being.
 - People are insecure and don't know where the next meal is going to come from.
 - Democracy is meaningless if there are no tangible benefits to the people.  
@@ -45,3 +44,9 @@ Want modernization and development
 - Tain district will decide the outcome of the election.
 - Irregularities in Tain caused the stop of voting. People of Tain will return to the polls to determine the final outcome.
 - NDC sweeps election in Tain, Atta Mills wins.  
+
+#### Some Election Notes
+- Kwame Nkrumah 1957
+- Rawlings 1992
+- Atta Mills vs Kufour 2000
+- Nana Akufo Addo vs. Atta Mills 2008
