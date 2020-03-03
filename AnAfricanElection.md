@@ -1,4 +1,4 @@
-### Notes for "An African Democracy"
+### Notes for "An African Election"
 - 2008 Ghana, People of the republic are getting ready to choose their next president. 
 - International community hoping that the election will repair the image of democracy in Africa. (Has been damaged by allegations of electoral fraud). 
 - There has been violence in Kenya and Zimbabwe (military coups in Mauritania and Guinea).
