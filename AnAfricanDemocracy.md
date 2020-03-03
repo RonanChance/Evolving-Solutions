@@ -1,0 +1,47 @@
+### Notes for "An African Democracy"
+- 2008 Ghana, People of the republic are getting ready to choose their next president. 
+- International community hoping that the election will repair the image of democracy in Africa. (Has been damaged by allegations of electoral fraud). 
+- There has been violence in Kenya and Zimbabwe (military coups in Mauritania and Guinea).
+- The discovery of oil has further raised the stakes in the election.
+- John Kufuor (NDC) has been in office for 8 years. 
+- Huge ideological difference between the two parties. 
+- Atta Mills (Presidential Candidate) and the NDC (National Democratic Congress).
+- Nana Akufo-Addo, candidate of NPP (National People's Party).
+- Jerry Rawlings (Former President 1992 - 2000)
+- NDC vs. NPP
+- Fifth election since multi-party democracy was established in 1992.
+- Will be a step forward if it is successful and peaceful.
+- Was a strong-man politics to now democracy in 1992. 
+- Want to increase food production, education, health.
+- How to guarantee security for everybody.
+- Conservative - NDP, Progressive - NDC
+- Ghana was the first country to gain independence in Sub-Saharan Africa. 
+- Kwame Nkrumah - First President of the Republic of Ghana.
+- 1957 gained independence from Britain.
+- CIA inspired coup 1966 overthrow of Kwame Nkrumah
+- 5 different military regimes.
+- Nana wants free secondary education for all.
+- None of the parties are offering a paradigm shift. They are all promising similar things, just going to do it better than the others. 
+Want modernization and development
+- Lots of aggregate growth has not translated into general well-being.
+- People are insecure and don't know where the next meal is going to come from.
+- Democracy is meaningless if there are no tangible benefits to the people.  
+- Want a change from NPP policies. 
+- Obuasi Gold Mine - One of the largest gold mines in the world.
+- In 2000 NDC lost to NPP. The first time that power changed through the ballot box. 
+- 8 years later, NDC fears that another defeat would lead to its failure.
+- President Rawlings campaigned to help ensure victory for the NDC.
+- 21,000 polling stations. Cannot vouch for the integrity of all officials monitoring the stations. 
+- NDC and NPP both say they are winning.
+- Electoral Commission needs a few days to produce results.
+- No one got above 50%, so runoff election on December 28.
+- Ghana's constitution states that a president must be elected with a 50% plus one majority vote. 
+- NPP (Nana Akufo-Addo) 49.13%
+- NDC (Atta Mills) 47.92%
+- NPP and NDC begin campaigning again for runoff. 
+- Macho men are problematic in the runoff election, and people are stealing ballot boxes. 
+- Atta Mills wins the election... but then new inflated results show he may have lost.
+- Worry is that people will become violent in the streets.
+- Tain district will decide the outcome of the election.
+- Irregularities in Tain caused the stop of voting. People of Tain will return to the polls to determine the final outcome.
+- NDC sweeps election in Tain, Atta Mills wins.  
