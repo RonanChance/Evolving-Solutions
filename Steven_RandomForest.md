@@ -4,6 +4,9 @@ The authors use a technique to produce a high-resolution description of the dist
 
 The random forest algorithm works by using decision trees. Essentially it uses a certain amount of randomness to make a bunch of trees (a forest) and all these together are more accurate than a single tree. They specifically used a random forest nonparametric (not involving any assumptions as to the form or parameters of a frequency distribution), predictive model. This allowed them to weigh both remotely sensed and geospatial data. They also used Dasymetric Mapping to distribute their findings across areas (like Vietnam, Cambodia, and Kenya). This is what creates the color-coded maps which show symbolically what we are studying.
 
+The random forest method used by the authors is a machine learning algorithm (ensemble method). In general terms, what is a machine learning algorithm? Within the context of this study what distinguishes a data science, machine learning method (such as random forest) from previous classical statistical approaches to describing and analyzing phenomenon and events?
+
+A machine learning algorithm adjust themselves as they are exposed to more data. Each piece of the data is used to alter or improve the understanding of the algorithm. The random forest approach relies more on prediction rather than explanation. Logistic regression modeling is standard for binary classification and when the number of covariates is small compared to the sample size. Random forest is also considered a black box algorithm.
 
 In the reading, the authors use a number of geospatial covariates as predictors in their machine learning method. What were these geospatial covariates and approximately how big of a data set did they represent (in general terms)? What is the significance of big data in the estimation of machine learning methods for inferring the correlates and drivers of human population distributions?
 
