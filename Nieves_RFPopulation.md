@@ -9,6 +9,7 @@ The goal is to find the best predictive correlates for population and population
 - Roads
 - Water features
 - Human settlements and urban areas
+
 Then they came up with a WIR for each category (Weighted important rank). This is calculated by taking the within-country ranked importance and dividing it by the total number of covariates in the model. Ultimately topographical features were very important predictors. Also built structures. 
 
 The Random Forest algorithm is a non-linear statistical method that includes machine-learning. It's an ensemble method because it combines individually weak predictive trees into one that is more predictive than the others alone. The Dasmetric population allocation is a process where (in this case) we draw more accurate data by creating new boundaries by distributing the data.
