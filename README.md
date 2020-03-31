@@ -8,6 +8,7 @@ The following is a table of contents of my work produced for Evolving Solutions
 3. [Jahan & Rosling Response](https://ronanchance.github.io/Evolving-Solutions/Jahan_Rosling.html) (Feb. 4)
 4. [Anderson & Kitchin Response](https://ronanchance.github.io/Evolving-Solutions/Anderson_Kitchin.html) (Feb. 25)
 5. [Steven et al. Response](https://ronanchance.github.io/Evolving-Solutions/Steven_RandomForest.html)(Mar. 26)
+6. [Nieves et al. Response](https://ronanchance.github.io/Evolving-Solutions/Nieves_RFPopulation)
 
 ### Formal Papers & Assignments
 
