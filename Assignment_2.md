@@ -1,8 +1,8 @@
-###Dasymetric mapping and Bayesian modeling for improved prediction of effective urbanization throughout Mongolia
-####by Ronan Donovan 
-####March 31, 2020
+### Dasymetric mapping and Bayesian modeling for improved prediction of effective urbanization throughout Mongolia
+#### by Ronan Donovan 
+#### March 31, 2020
 
-###Introduction
+### Introduction
 The purpose of this research is to improve upon the use of high resolution geospatial data to generate a multi-layered dasymetric map of Mongolia by specifying, estimating and validating a bayesian model of sentiment analysis. Achieving this result will require meeting the following objectives:
 
 Collection of geospatial data regarding air pollution, water quality, and topography. 
@@ -12,16 +12,16 @@ Analysis of correlation between covariates and social well-being.
 
 This work will build on previous research by Byambakhuu Gantumur et. al and Gankhuyag and will incorporate new methods to implement both a dasymetric map and a bayesian model towards inferring the most impactful covariates to social satisfaction. 
 
-###Human Development Topic
+### Human Development Topic
 Rapid urbanization has profound impacts on both the socio-economics of a country as well as the environment. Both of these areas have been investigated in a number of countries, and in Mongolia. The inherent issue lies in the unsustainable manner in which development often occurs, and Ulaanbaatar is an example of this kind of growth. 
 
 In 2015 the United Nations proposed 17 Sustainable Development Goals (SDG). The issue of sustainable cities and communities (goal 11), good health and well-being (goal 3), and responsible consumption and production (goal 12) are only a few of the problems with which an understanding and utilization of geospatial data and analysis could vastly improve the future. 
 
-###Human Development Process
+### Human Development Process
 Mongolia is a landlocked country that lies between Russia and China. Despite the significant land mass of the country, the vast majority of all development is centralized in the capital city, Ulaanbaatar, which is home to ~45% of the country’s population. The cities of Mongolia are mostly populated by ger settlements with little access to proper sanitation, waste disposal, or safe drinking water (Ts. Gantsog). The economy has historically been heavily dependent on the mining sector, with approximately 90% of trade being with the Soviet Union during 1960 to 1990. In 1990, Mongolia had its first parliamentary election and began to build a market economy. Since then, the economy has been heavily dominated by private entities with an emphasis on mining coal (Ts. Gantsog). Despite these economical steps forward and significant urbanization and development, the country faces a number of issues in regard to sustainable development. 
 
 
-###Geospatial and Data Science methods
+### Geospatial and Data Science methods
 The paper by Tsutsumida focused on monitoring urban expansion in Ulaanbaatar by using spatial data to calculate and use a Logistic Regression Model to better understand the factors that contribute to further development. A logistic regression model is based on statistics with a dependent binary result, which in this case, is whether future development is predicted in a location. They study GIS data and ASTER imagery. The resolution of early data was 1-4m2 but improved to 0.6-2.8m2. The research found a very significant increase in urbanization, and the proportion of private land in the study increased by 12.9% in six years. They also found that the increase in private land did correlate with the proximity of water kiosks and roads. Essentially, private land tended to be built by other private land. The researchers did explain that it was difficult to ‘incorporate the effects of disaggregated human behaviors on urban surfaces’ (Tsutsumida). In addition to this, topographical indicators did not have nearly as much of an effect as was expected. 
 
 The assessment written by Kelderman and Batima did an in depth analysis of water pollution in Mongolia. The data examined was quite aged as it was taken between 1949 and 1990. Despite this, the study found some interesting geographical and geological trends. Their data science method included the use of 72 monitoring stations on the 35 rivers of Mongolia. These stations monitored a number of variables including the Total Suspended Solids, along with all the major ions, oxygen, and nutrients. Much of the negative impact on water pollution was a result of Ulaanbaatar's increasing urbanization with increased levels of Ammonia in the Tuul river. 
@@ -41,12 +41,12 @@ The impact of the environment on health in Mongolia is a pressing issue that was
 The relationship between the rapid urbanization process of Mongolia and the effect it has on the environment was studied closely by Byambakhuu Gantumur et. al. and their method included a number of remote sensing methods to conduct their study. Land Use and Land Cover (LULC) are important in understanding the impact of development. Because urbanization often occurs in an unplanned process, understanding the impacts can help prepare for how to better develop in the future. The study relied on landsat images collected by the USGS EDC between 1990 and 2015. The team used a change detection process to analyze the remotely sensed data. The raster maps were converted to boxplots with R. The graphs are able to show the increase of agricultural fields, water reflux of the Tuul river, and built up areas. 
 
 
-###Discussion
+### Discussion
 The aggregation of these articles and datasets gives a much more contextual understanding of the processes that are being used to understand the development of Mongolia and the city of Ulaanbaatar. One of the important elements to effective development is understanding the environmental factors that are most correlated with quality of life. This study seeks to find ways of giving numerical answers to complex practical issues. There has yet to be a consolidation of the geospatially and survey collected data for aggregated mapping applications, and doing so would provide unparalleled understanding for future growth. The connection between health and satisfaction with air pollution, water quality, and urban development, is essential to the future of the country. 
 
-##References
+## References
 
-####New Sources
+#### New Sources
 Byambakhuu Gantumur, Falin Wu, Yan Zhao, Battsengel Vandansambuu, Enkhjargal Dalaibaatar, Fareda Itiritiphan, and Dauryenbyek Shaimurat "Implication of relationship between natural impacts and land use/land cover (LULC) changes of urban area in Mongolia", Proc. SPIE 10431, Remote Sensing Technologies and Applications in Urban Environments II, 104310M (4 October 2017); https://doi-org.proxy.wm.edu/10.1117/12.2278360
 
 Jadambaa, A., Spickett, J., Badrakh, B., & Norman, R. E. (2015). The Impact of the Environment on Health in Mongolia: A Systematic Review. Asia Pacific Journal of Public Health, 27(1), 45–75. https://doi.org/10.1177/1010539514545648
@@ -57,7 +57,7 @@ TS. Gantsog, S. Altantsetseg (n.d). Cost of Socio-Economic Reform: Problems to E
 
 Xiong Yan, Kanako Muramatsu, Masahiro Hirata, Kazato Oishi, Ichirow Kaihotsu, Tamio Takamura, Shinobu Furumi & Noboru Fujiwara (2004) Verification of net primary production estimation method in the Mongolian Plateau using landsat ETM+data. https://doi.org/10.1007/BF02826648
 
-####Old Sources
+#### Old Sources
 
 Allen, R.W., Gombojav, E., Barkhasragchaa, B. et al. An assessment of air pollution and its attributable mortality in Ulaanbaatar, Mongolia. Air Qual Atmos Health 6, 137–150 (2013). https://doi.org/10.1007/s11869-011-0154-3
 
