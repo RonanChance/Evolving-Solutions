@@ -45,23 +45,23 @@ The aggregation of these articles and datasets gives a much more contextual unde
 #### New Sources
 Byambakhuu Gantumur, Falin Wu, Yan Zhao, Battsengel Vandansambuu, Enkhjargal Dalaibaatar, Fareda Itiritiphan, and Dauryenbyek Shaimurat "Implication of relationship between natural impacts and land use/land cover (LULC) changes of urban area in Mongolia", Proc. SPIE 10431, Remote Sensing Technologies and Applications in Urban Environments II, 104310M (4 October 2017); [https://doi-org.proxy.wm.edu/10.1117/12.2278360](https://doi-org.proxy.wm.edu/10.1117/12.2278360)
 
-Jadambaa, A., Spickett, J., Badrakh, B., & Norman, R. E. (2015). The Impact of the Environment on Health in Mongolia: A Systematic Review. Asia Pacific Journal of Public Health, 27(1), 45–75.[https://doi.org/10.1177/1010539514545648](https://doi.org/10.1177/1010539514545648)
+Jadambaa, A., Spickett, J., Badrakh, B., & Norman, R. E. (2015). The Impact of the Environment on Health in Mongolia: A Systematic Review. Asia Pacific Journal of Public Health, 27(1), 45–75. [https://doi.org/10.1177/1010539514545648](https://doi.org/10.1177/1010539514545648)
 
-Nyamtseren, M., Feng, Q., & Deo, R. (2018). A Comparative Study of Temperature and Precipitation-Based Aridity Indices and Their Trends in Mongolia. International Journal of Environmental Research, 12(6), 887–899.[https://doi.org/10.1007/s41742-018-0143-6](https://doi.org/10.1007/s41742-018-0143-6)
+Nyamtseren, M., Feng, Q., & Deo, R. (2018). A Comparative Study of Temperature and Precipitation-Based Aridity Indices and Their Trends in Mongolia. International Journal of Environmental Research, 12(6), 887–899. [https://doi.org/10.1007/s41742-018-0143-6](https://doi.org/10.1007/s41742-018-0143-6)
 
-TS. Gantsog, S. Altantsetseg (n.d). Cost of Socio-Economic Reform: Problems to Ensure Human Development in Mongolia. National University of Mongolia,[http://www.policy.hu/sodnomtseren/Humandevelopment.PDF](http://www.policy.hu/sodnomtseren/Humandevelopment.PDF)
+TS. Gantsog, S. Altantsetseg (n.d). Cost of Socio-Economic Reform: Problems to Ensure Human Development in Mongolia. National University of Mongolia, [http://www.policy.hu/sodnomtseren/Humandevelopment.PDF](http://www.policy.hu/sodnomtseren/Humandevelopment.PDF)
 
-Xiong Yan, Kanako Muramatsu, Masahiro Hirata, Kazato Oishi, Ichirow Kaihotsu, Tamio Takamura, Shinobu Furumi & Noboru Fujiwara (2004) Verification of net primary production estimation method in the Mongolian Plateau using landsat ETM+data.[https://doi.org/10.1007/BF02826648](https://doi.org/10.1007/BF02826648)
+Xiong Yan, Kanako Muramatsu, Masahiro Hirata, Kazato Oishi, Ichirow Kaihotsu, Tamio Takamura, Shinobu Furumi & Noboru Fujiwara (2004) Verification of net primary production estimation method in the Mongolian Plateau using landsat ETM+data. [https://doi.org/10.1007/BF02826648](https://doi.org/10.1007/BF02826648)
 
 #### Old Sources
 
-Allen, R.W., Gombojav, E., Barkhasragchaa, B. et al. An assessment of air pollution and its attributable mortality in Ulaanbaatar, Mongolia. Air Qual Atmos Health 6, 137–150 (2013).[https://doi.org/10.1007/s11869-011-0154-3](https://doi.org/10.1007/s11869-011-0154-3)
+Allen, R.W., Gombojav, E., Barkhasragchaa, B. et al. An assessment of air pollution and its attributable mortality in Ulaanbaatar, Mongolia. Air Qual Atmos Health 6, 137–150 (2013). [https://doi.org/10.1007/s11869-011-0154-3](https://doi.org/10.1007/s11869-011-0154-3)
 
-Caldieron, J., & Miller, R. (2013). Residential Satisfaction in the Informal Neighborhoods of Ulaanbaatar, Mongolia. Enquiry The ARCC Journal for Architectural Research, 7(1), 12-18.[https://doi.org/10.17831/enq:arcc.v7i1.73](https://doi.org/10.17831/enq:arcc.v7i1.73)
+Caldieron, J., & Miller, R. (2013). Residential Satisfaction in the Informal Neighborhoods of Ulaanbaatar, Mongolia. Enquiry The ARCC Journal for Architectural Research, 7(1), 12-18. [https://doi.org/10.17831/enq:arcc.v7i1.73](https://doi.org/10.17831/enq:arcc.v7i1.73)
 
-P. Kelderman, P. Batima; Water quality assessment of rivers in Mongolia. Water Sci Technol 1 3May 2006; 53 (10): 111–119. doi:[https://doi.org/10.2166/wst.2006.304](https://doi.org/10.2166/wst.2006.304)
+P. Kelderman, P. Batima; Water quality assessment of rivers in Mongolia. Water Sci Technol 1 3May 2006; 53 (10): 111–119. doi: [https://doi.org/10.2166/wst.2006.304](https://doi.org/10.2166/wst.2006.304)
 
-Radnaabazar, G., Kuffer, M., & Hofstee, P. (2004). Monitoring the development of informal settlements in Ulaanbaatar, Mongolia. 333-339. Vienna, Austria: Vienna University of Technology.[https://research.utwente.nl/en/publications/monitoring-the-development-of-informal-settlements-in-ulaanbaatar](https://research.utwente.nl/en/publications/monitoring-the-development-of-informal-settlements-in-ulaanbaatar)
+Radnaabazar, G., Kuffer, M., & Hofstee, P. (2004). Monitoring the development of informal settlements in Ulaanbaatar, Mongolia. 333-339. Vienna, Austria: Vienna University of Technology. [https://research.utwente.nl/en/publications/monitoring-the-development-of-informal-settlements-in-ulaanbaatar](https://research.utwente.nl/en/publications/monitoring-the-development-of-informal-settlements-in-ulaanbaatar)
 
-Tsutsumida, N., Saizen, I., Matsuoka, M., & Ishii, R. (2015). Addressing urban expansion using feature-oriented spatial data in a peripheral area of Ulaanbaatar, Mongolia.[https://doi.org/10.1016/j.habitatint.2015.01.024](https://doi.org/10.1016/j.habitatint.2015.01.024)
+Tsutsumida, N., Saizen, I., Matsuoka, M., & Ishii, R. (2015). Addressing urban expansion using feature-oriented spatial data in a peripheral area of Ulaanbaatar, Mongolia. [https://doi.org/10.1016/j.habitatint.2015.01.024](https://doi.org/10.1016/j.habitatint.2015.01.024)
 
