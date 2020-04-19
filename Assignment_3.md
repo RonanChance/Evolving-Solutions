@@ -48,3 +48,18 @@ The BFAST model is used for change detection of land cover, and it estimates the
 As can be seen, this modeling process does require a significant amount of math and is relatively complex. The model combines an iterative decomposition of seasonal, trend, remainder components to detect change. Then, a piecewise linear trend and seasonal model can be created with the above equations.
 
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST4.png" width="400" height="400">
+
+The above equations are incorporated into this diagram which show Yt (the observed data at the current time), Tt (the trend component), St (the seasonal component), and et (the remainder component). Essentially, this shows us when ‘breaks’ occur, which is when structural changes happen. 
+
+In past use cases, the BFAST methodology has only been used to monitor vegetation to distinguish grassland and detect forest fires. This study realizes the potential for BFAST to monitor the land changes that result from urban growth. There have been a multitude of negative results because of the unplanned growth of the privately held ger-areas. It has caused pollution, traffic congestion and even unemployment. The BFAST method has potential to greatly benefit policymakers and governments in furthering and shaping the best possible outcomes of development.
+
+### Further Study & Conclusion
+
+The Linear Regression and Breaks For Additive Seasonal and Trends models have both yielded useful data, and for this reason, both warrant continued usage and application in continuing studies regarding urban development. In fact, these methods are not mutually exclusive, and finding ways to use them in unison could be a continued line of research. I would also like to see a connection to Geoff West’s scaling laws and fractal-like nature of growth. 
+
+### Sources
+
+[1] Tsutsumida, N., Saizen, I., Matsuoka, M., & Ishii, R. (2015). Addressing urban expansion using feature-oriented spatial data in a peripheral area of Ulaanbaatar, Mongolia. 
+doi: https://doi.org/10.1016/j.habitatint.2015.01.024
+
+[2] Tsutsumida, N., Saizen, I., Matsuoka, M., & Ishii, R. (2013). Land Cover Change Detection in Ulaanbaatar Using the Breaks for Additive Seasonal and Trend Method. Land, 2(4), 534–549. doi: https://doi.org/10.3390/land2040534
