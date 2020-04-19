@@ -41,6 +41,6 @@ Unfortunately, the expansion that was seen in the years depicted resulted in a d
 ### Method 2: Breaks for Additive Seasonal and Trend Model [2]
 The BFAST model is used for change detection of land cover, and it estimates the both the time and number of changes which are characterized by their magnitudes and directions. 
 
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST1.png" width="350" height="80">
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST2.png" width="350" height="80">
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="350" height="80">
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST1.png" width="325" height="70">
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST2.png" width="325" height="70">
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="325" height="70">
