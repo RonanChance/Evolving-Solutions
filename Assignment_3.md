@@ -34,4 +34,4 @@ If the regression coefficient is positive, this is an increased probability of g
 
 The way this study was conducted, they rasterized (which means to take a photo and break it down into its binary data) the geospatially collected photographs. With this, the distance to roads and water kiosks can be calculated, as well as classifying areas into their respective subcategories. 
 
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/TimeChange.png" width="100" height="350">
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/TimeChange.png" width="175" height="350">
