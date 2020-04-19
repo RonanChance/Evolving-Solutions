@@ -32,7 +32,7 @@ If the regression coefficient is positive, this is an increased probability of g
 
 The way this study was conducted, they rasterized (which means to take a photo and break it down into its binary data) the geospatially collected photographs. With this, the distance to roads and water kiosks can be calculated, as well as classifying areas into their respective subcategories. 
 
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/TimeChange.png" width="175" height="350">
+![Image](/Images/TimeChange.png)
 
 Using a logistic regression model, this specific study found that such expansion is related to social infrastructure rather than to natural landforms. The most significant increase over the years was in private land ownership in Ulaanbaatar (as seen in the illustrations above). The study also found that they could determine potential ‘hot spots’ by estimating spatially and comparing the regression coefficients. The places near water kiosks and near roads showed a much greater likelihood of being developed. Surprisingly, natural environmental factors were much less important compared to the social infrastructure influences. 
 
@@ -41,13 +41,13 @@ Unfortunately, the expansion that was seen in the years depicted resulted in a d
 #### Method 2: Breaks for Additive Seasonal and Trend Model [2]
 The BFAST model is used for change detection of land cover, and it estimates the both the time and number of changes which are characterized by their magnitudes and directions. 
 
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST1.png" width="375" height="70">
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST2.png" width="375" height="70">
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="500" height="70">
+![Image](/Images/BFAST1)
+![Image](/Images/BFAST2)
+![Image](/Images/BFAST3)
 
 As can be seen, this modeling process does require a significant amount of math and is relatively complex. The model combines an iterative decomposition of seasonal, trend, remainder components to detect change. Then, a piecewise linear trend and seasonal model can be created with the above equations.
 
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST4.png" width="400" height="400">
+![Image](/Images/BFAST4)
 
 The above equations are incorporated into this diagram which show Yt (the observed data at the current time), Tt (the trend component), St (the seasonal component), and et (the remainder component). Essentially, this shows us when ‘breaks’ occur, which is when structural changes happen. 
 
