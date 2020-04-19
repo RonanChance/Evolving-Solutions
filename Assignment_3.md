@@ -20,3 +20,18 @@ The main questions that this research seeks to address are:
 ### Model: Logistic Regression Model
 As a brief introduction, logistic regression functions look like an ‘S’ shaped logistic function. The curve goes from 0 to 1 and the number signifies probability. In logistic regression, predictions can be made using discrete or continuous data, and each variable can be tested to see if it is helpful in the prediction by testing to see if the effect on the prediction is significantly different from zero, this can be done using Wald’s test (chi-squared test) to see if data is relevant to the prediction. Logistic regression is a popular machine learning method because of its classification uses. In our specific case, this is the formula:
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/LogReg.png" width="350" height="80">
+
+In this formula, 
+- P(z) is the probability of the dependent variable.
+- Z; x1, x2, ⋯ xm are the independent variables.
+- A is the interception. 
+- B1, b2, … , bm are the regression coefficients. 
+- Epsilon is the binomially distributed error.  
+- Z is the probability of occurrence of privatized land (value between 1 and 0).
+
+Regression coefficients represent the contribution of each independent variable on P(z). 
+If the regression coefficient is positive, this is an increased probability of growth. Conversely, a negative coefficient means no growth. 
+
+The way this study was conducted, they rasterized (which means to take a photo and break it down into its binary data) the geospatially collected photographs. With this, the distance to roads and water kiosks can be calculated, as well as classifying areas into their respective subcategories. 
+
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/TimeChange.png" width="100" height="350">
