@@ -43,4 +43,4 @@ The BFAST model is used for change detection of land cover, and it estimates the
 
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST1.png" width="325" height="70">
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST2.png" width="325" height="70">
-<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="325" height="70">
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="450" height="70">
