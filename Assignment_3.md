@@ -44,3 +44,7 @@ The BFAST model is used for change detection of land cover, and it estimates the
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST1.png" width="375" height="70">
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST2.png" width="375" height="70">
 <img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST3.png" width="500" height="70">
+
+As can be seen, this modeling process does require a significant amount of math and is relatively complex. The model combines an iterative decomposition of seasonal, trend, remainder components to detect change. Then, a piecewise linear trend and seasonal model can be created with the above equations.
+
+<img src="https://github.com/RonanChance/Evolving-Solutions/blob/master/Images/BFAST4.png" width="400" height="400">
