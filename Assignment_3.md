@@ -41,13 +41,13 @@ Unfortunately, the expansion that was seen in the years depicted resulted in a d
 #### Method 2: Breaks for Additive Seasonal and Trend Model [2]
 The BFAST model is used for change detection of land cover, and it estimates the both the time and number of changes which are characterized by their magnitudes and directions. 
 
-![Image](/Images/BFAST1)
-![Image](/Images/BFAST2)
-![Image](/Images/BFAST3)
+![Image](/Images/BFAST1.png)
+![Image](/Images/BFAST2.png)
+![Image](/Images/BFAST3.png)
 
 As can be seen, this modeling process does require a significant amount of math and is relatively complex. The model combines an iterative decomposition of seasonal, trend, remainder components to detect change. Then, a piecewise linear trend and seasonal model can be created with the above equations.
 
-![Image](/Images/BFAST4)
+![Image](/Images/BFAST4.png)
 
 The above equations are incorporated into this diagram which show Yt (the observed data at the current time), Tt (the trend component), St (the seasonal component), and et (the remainder component). Essentially, this shows us when ‘breaks’ occur, which is when structural changes happen. 
 
