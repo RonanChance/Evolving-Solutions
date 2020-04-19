@@ -7,13 +7,13 @@ One of the important elements to effective development is understanding the envi
 
 ### Inquiry Type:
 This research question is equal part explanatory, and equally exploratory. My research question revolves around understanding the variables that correlate with urban expansion and development and how much of a causal factor they are. Similar to Geoff West’s book on Scale, there is a certain amount of urban growth that is a product of our structure of the human mind. We live in a time with an unprecedented amount of geospatial data, and being able to utilize this data will allow us to not only understand the practical implications of development, but the existential complexities and limitations of the human condition. To model and predict these geographical behaviors and changes is to ascertain a perspective on humanity that has never been witnessed before. 
-- The main questions that this research seeks to address are:
-  - How can geospatial data be effectively used to project and estimate the future urban growth. 
+The main questions that this research seeks to address are:
+- How can geospatial data be effectively used to project and estimate the future urban growth. 
   - What factors and covariates are most correlated with this growth?
   - What steps can be taken to ensure the most efficient amount of development?
 - What methods of geospatial analysis are most effective at predicting change?
-- How can this data be harnessed to improve life for residents?
-- What patterns can be extrapolated and applied to all developing areas? How does this compare to the patterns that are only locally significant?
+  - How can this data be harnessed to improve life for residents?
+  - What patterns can be extrapolated and applied to all developing areas? How does this compare to the patterns that are only locally significant?
 
 ### Method 1: Logistic Regression Model [1]
 
