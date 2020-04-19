@@ -19,4 +19,4 @@ The main questions that this research seeks to address are:
 
 ### Model: Logistic Regression Model
 As a brief introduction, logistic regression functions look like an ‘S’ shaped logistic function. The curve goes from 0 to 1 and the number signifies probability. In logistic regression, predictions can be made using discrete or continuous data, and each variable can be tested to see if it is helpful in the prediction by testing to see if the effect on the prediction is significantly different from zero, this can be done using Wald’s test (chi-squared test) to see if data is relevant to the prediction. Logistic regression is a popular machine learning method because of its classification uses. In our specific case, this is the formula:
-![Example Image](/Images/LogReg.png&s=50)
+![Example Image](/Images/LogReg.png?s=50)
