@@ -15,7 +15,7 @@ The main questions that this research seeks to address are:
   - How can this data be harnessed to improve life for residents?
   - What patterns can be extrapolated and applied to all developing areas? How does this compare to the patterns that are only locally significant?
 
-### Method 1: Logistic Regression Model [1]
+### Method 1: Logistic Regression Model
 As a brief introduction, logistic regression functions look like an ‘S’ shaped logistic function. The curve goes from 0 to 1 and the number signifies probability. In logistic regression, predictions can be made using discrete or continuous data, and each variable can be tested to see if it is helpful in the prediction by testing to see if the effect on the prediction is significantly different from zero, this can be done using Wald’s test (chi-squared test) to see if data is relevant to the prediction. Logistic regression is a popular machine learning method because of its classification uses. In our specific case, this is the formula:
 ![Image](Images/LogReg.png)
 
@@ -30,7 +30,7 @@ In this formula,
 Regression coefficients represent the contribution of each independent variable on P(z). 
 If the regression coefficient is positive, this is an increased probability of growth. Conversely, a negative coefficient means no growth. 
 
-The way this study was conducted, they rasterized (which means to take a photo and break it down into its binary data) the geospatially collected photographs. With this, the distance to roads and water kiosks can be calculated, as well as classifying areas into their respective subcategories. 
+The way this study was conducted, they rasterized (which means to take a photo and break it down into its binary data) the geospatially collected photographs. With this, the distance to roads and water kiosks can be calculated, as well as classifying areas into their respective subcategories.
 
 ![Image](/Images/TimeChange.png)
 
@@ -38,7 +38,7 @@ Using a logistic regression model, this specific study found that such expansion
 
 Unfortunately, the expansion that was seen in the years depicted resulted in a deterioration of living standards and actually caused an increasingly disordered pattern amongst the fringes of the city. I feel as though this finding has serious merit in further studies regarding prediction, and wonder if these ‘disordered’ patterns resemble anything like that of a fractal. 
 
-### Method 2: Breaks for Additive Seasonal and Trend Model [2]
+### Method 2: Breaks for Additive Seasonal and Trend Model
 The BFAST model is used for change detection of land cover, and it estimates the both the time and number of changes which are characterized by their magnitudes and directions. 
 
 ![Image](/Images/BFAST1.png)
