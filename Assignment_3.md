@@ -49,7 +49,8 @@ As can be seen, this modeling process does require a significant amount of math 
 
 ![Image](/Images/BFAST4.png)
 
-The above equations are incorporated into this diagram which show Yt (the observed data at the current time), Tt (the trend component), St (the seasonal component), and et (the remainder component). Essentially, this shows us when ‘breaks’ occur, which is when structural changes happen. 
+The above equations are incorporated into this diagram which show Yt (the observed data at the current time), Tt (the trend component), St (the seasonal component), and et (the remainder component). Essentially, this shows us when ‘breaks’ occur, which is when structural changes happen. One of the current weaknesses in this kind of study is that there is insufficient temporal data for these land masses. However, with the relatively new addition of more methods of geospatial data collection, the future looks promising for continued applications.
+
 
 In past use cases, the BFAST methodology has only been used to monitor vegetation to distinguish grassland and detect forest fires. This study realizes the potential for BFAST to monitor the land changes that result from urban growth. There have been a multitude of negative results because of the unplanned growth of the privately held ger-areas. It has caused pollution, traffic congestion and even unemployment. The BFAST method has potential to greatly benefit policymakers and governments in furthering and shaping the best possible outcomes of development.
 
