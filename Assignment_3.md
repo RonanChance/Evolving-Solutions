@@ -55,7 +55,8 @@ In past use cases, the BFAST methodology has only been used to monitor vegetatio
 
 ### Further Study & Conclusion
 
-The Linear Regression and Breaks For Additive Seasonal and Trends models have both yielded useful data, and for this reason, both warrant continued usage and application in continuing studies regarding urban development. In fact, these methods are not mutually exclusive, and finding ways to use them in unison could be a continued line of research. I would also like to see a connection to Geoff West’s scaling laws and fractal-like nature of growth. 
+The Linear Regression and Breaks For Additive Seasonal and Trends models have both yielded useful data, and for this reason, both warrant continued usage and application in continuing studies regarding urban development. In fact, these methods are not mutually exclusive, and both methods in unison is an avenue for continued research.
+A gap in the research exists for determining how to find ways to not only visualize and see the occurang urban change, but to accurately create a method of prediction. There have not been any real connections to Geoff West's book on Scale, and I think there is potential for more creativity in our pursuit of modeling urban expansion. For example, I would like to better understand the so called 'unplanned growth' to see whether it has any parallels to the design of fractal-like structures. 
 
 ### Sources
 
