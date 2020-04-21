@@ -1,6 +1,3 @@
-Ronan Donovan
-April 21, 2020
-
 ### How did the transformation of the City of God provide evidence for how social networks were central to Rio de Janeiro's urbanization during the 60s, 70s, and 80s?
 
 The City of God, a place where drug trafficking, police brutality, and diabolical acts of inhumane treatment are rampant. This movie tells the story of Rio de Janeiro in the 60s, 70s, and 80s and the social dynamics that were implicit in causing the violence and corruption. The slums of the city become increasingly violent over the years, and the innocent citizens are caught in a crossfire between the competing drug gangs. Brazil soon is considered the "world's most violent nation not in a state of war". The question then remains, what caused Brazil to evolve into this chaos?
