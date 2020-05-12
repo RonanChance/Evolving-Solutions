@@ -1,3 +1,3 @@
 # Final Assignment
 
-![alt-text-1](/Images/BFAST1.png "title-1") ![alt-text-2](/Images/BFAST2.png "title-2")
+![My Visit](/Images/Me.png)
