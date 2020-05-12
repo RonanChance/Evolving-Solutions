@@ -17,6 +17,7 @@ The following is a table of contents of my work produced for Evolving Solutions
 2. [Literature Review](https://ronanchance.github.io/Evolving-Solutions/Assignment_2.html) (Apr. 5)
 3. [Methodological Investigation](https://ronanchance.github.io/Evolving-Solutions/Assignment_3.html) (Apr. 19)
 4. [Abstract](https://ronanchance.github.io/Evolving-Solutions/Assignment_4.html) (Apr. 25)
+5. [Research Proposal](https://ronanchance.github.io/Evolving-Solutions/Final_Assignment.html) (May. 13)
 
 ### In Class Essay
 
